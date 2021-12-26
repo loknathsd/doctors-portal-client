@@ -1,0 +1,22 @@
+.contact-area{
+    background-image: url(../../../images/appointment-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+    color: white;
+    
+
+}
+/* .opacity-color{
+    content: "";
+    height: 100%;
+    width: 100%;
+    background: rgba(36,41,73,0.5);
+    position:absolute;
+    top: 0;
+    left: 0;
+   
+
+
+} */
